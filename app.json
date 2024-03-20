@@ -1,4 +1,8 @@
 {
   "name": "Guess",
-  "displayName": "Guess"
+  "displayName": "Guess",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-9785304391236080/4196495725",
+    "ios_app_id": "ca-app-pub-9785304391236080/9612473939"
+  }
 }
